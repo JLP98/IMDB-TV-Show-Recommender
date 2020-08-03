@@ -1,0 +1,15 @@
+{
+  "name": "imdbtvrecommender",
+  "version": "1.0.0",
+  "description": "Recommends tv shows to watch",
+  "main": "searchRatings.js",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node searchRatings.mjs"
+  },
+  "author": "JP",
+  "license": "ISC"
+}
